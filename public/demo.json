@@ -1,0 +1,135 @@
+[
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/y6LFK5Q/Health.png",
+        "title": "Healthy Lifestyle",
+        "category": "Health",
+        "background_color": "#F5A623",
+        "title_background_color": "#009688",
+        "text_color": "#333333",
+        "price": 259.99,
+        "description": "Discover the secrets to a healthy life with our comprehensive guide. This book provides valuable insights into nutrition, exercise, and mental well-being, empowering you to make positive lifestyle changes."
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/8Ymwsvg/Education.png",
+        "title": "Education Essentials",
+        "category": "Education",
+        "background_color": "#4A90E2",
+        "title_background_color": "#FF5722",
+        "text_color": "#FFFFFF",
+        "price": 289.99,
+        "description": "Equip yourself with essential educational materials that support effective learning. Our products cater to all age groups and subjects, ensuring a rich and immersive learning experience."
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/WKbMnL5/Clothing.png",
+        "title": "Fashion Forward",
+        "category": "Clothing",
+        "background_color": "#F44336",
+        "title_background_color": "#673AB7",
+        "text_color": "#FFFFFF",
+        "price": 279.99,
+        "description": "Stay ahead of the fashion curve with our latest clothing collection. From casual wear to formal attire, we offer stylish options for every occasion, making you stand out in any crowd."
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/6FmGWWb/Food.png",
+        "title": "Delicious Delights",
+        "category": "Food",
+        "background_color": "#8BC34A",
+        "title_background_color": "#FFC107",
+        "text_color": "#333333",
+        "price": 269.99,
+        "description": "Indulge in a world of culinary delights. From mouthwatering desserts to savory dishes, our food selection promises an unforgettable gastronomic journey that won't break the bank."
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/y6LFK5Q/Health.png",
+        "title": "Fitness Fanatics",
+        "category": "Health",
+        "background_color": "#FFC107",
+        "title_background_color": "#009688",
+        "text_color": "#333333",
+        "price": 279.99,
+        "description": "Achieve your fitness goals with our top-quality exercise equipment and nutritional supplements. We're dedicated to helping you maintain a healthy and active lifestyle."
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/8Ymwsvg/Education.png",
+        "title": "Learning Adventures",
+        "category": "Education",
+        "background_color": "#FF5722",
+        "title_background_color": "#4A90E2",
+        "text_color": "#FFFFFF",
+        "price": 299.99,
+        "description": "Embark on exciting educational journeys that expand your horizons. Our programs cover a wide range of topics, from science to arts, ensuring a rich and immersive learning experience."
+      },
+      {
+        "id": 7,
+        "image": "https://i.ibb.co/WKbMnL5/Clothing.png",
+        "title": "Casual Chic",
+        "category": "Clothing",
+        "background_color": "#673AB7",
+        "title_background_color": "#F44336",
+        "text_color": "#FFFFFF",
+        "price": 269.99,
+        "description": "Elevate your style with our collection of casual chic clothing. We offer trendy and comfortable options that are perfect for everyday wear, without breaking the bank."
+      },
+      {
+        "id": 8,
+        "image": "https://i.ibb.co/6FmGWWb/Food.png",
+        "title": "Gourmet Delicacies",
+        "category": "Food",
+        "background_color": "#009688",
+        "title_background_color": "#8BC34A",
+        "text_color": "#333333",
+        "price": 259.99,
+        "description": "Savor the finest gourmet delicacies at affordable prices. Our delectable offerings are perfect for indulging in culinary delights without emptying your wallet."
+      },
+      {
+        "id": 9,
+        "image": "https://i.ibb.co/y6LFK5Q/Health.png",
+        "title": "Wellness Guide",
+        "category": "Health",
+        "background_color": "#FF5722",
+        "title_background_color": "#F5A623",
+        "text_color": "#333333",
+        "price": 269.99,
+        "description": "Unlock the secrets to a balanced and fulfilling life with our wellness guide. It's packed with actionable tips and advice to help you achieve optimal well-being."
+      },
+      {
+        "id": 10,
+        "image": "https://i.ibb.co/8Ymwsvg/Education.png",
+        "title": "STEM Education",
+        "category": "Education",
+        "background_color": "#4A90E2",
+        "title_background_color": "#FFC107",
+        "text_color": "#FFFFFF",
+        "price": 269.99,
+        "description": "Explore the fascinating world of Science, Technology, Engineering, and Math (STEM) with our comprehensive educational resources. Get ready to ignite your curiosity and learning."
+      },
+      {
+        "id": 11,
+        "image": "https://i.ibb.co/WKbMnL5/Clothing.png",
+        "title": "Sleek and Stylish",
+        "category": "Clothing",
+        "background_color": "#F44336",
+        "title_background_color": "#009688",
+        "text_color": "#333333",
+        "price": 279.99,
+        "description": "Elevate your wardrobe with our sleek and stylish fashion choices. Our clothing line is designed for those who appreciate elegance and sophistication without the hefty price tag."
+      },
+      {
+        "id": 12,
+        "image": "https://i.ibb.co/6FmGWWb/Food.png",
+        "title": "Tasty Treats",
+        "category": "Food",
+        "background_color": "#8BC34A",
+        "title_background_color": "#673AB7",
+        "text_color": "#333333",
+        "price": 259.99,
+        "description": "Experience a world of flavor with our tantalizing range of tasty treats. From snacks to gourmet delights, we offer affordable options that satisfy your cravings."
+      }
+    ]
+    
