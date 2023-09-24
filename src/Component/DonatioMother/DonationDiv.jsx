@@ -1,11 +1,13 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const DonationDiv = ({ data }) => {
       console.log(data);
       const { id, image, title, category, backgroundColor, title_background_color, color, additionalBackgroundColor } = data || {}
       return (
             <div>
-                  <div className="relative flex w-[300px] flex-col rounded-xl text-gray-700 ">
+                  <Link to={`/donationDiv/${id}`} className=''>
+                  <div className="relative flex w-[300px] flex-col rounded-xl ">
                         <img
                               src={image}
                               alt="img-blur-shadow"
@@ -24,6 +26,7 @@ const DonationDiv = ({ data }) => {
                         </div>
 
                   </div>
+                  </Link>
             </div>
       );
 };

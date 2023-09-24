@@ -7,6 +7,7 @@
             "backgroundColor": "#0052FF26",
             "title_background_color": "#009688",
             "additionalBackgroundColor":"#0052FF33",
+            "thirdBackgroundColor":"#0052FF",
             "color": "#0052FF",
             "price": 259.99,
             "description": "Discover the secrets to a healthy life with our comprehensive guide. This book provides valuable insights into nutrition, exercise, and mental well-being, empowering you to make positive lifestyle changes."
@@ -19,6 +20,7 @@
             "backgroundColor": "#FF444927",
             "title_background_color": "#FF5722",
             "additionalBackgroundColor":"#FF444933",
+            "thirdBackgroundColor":"#FF444A",
             "color": "#FF444A",
             "price": 289.99,
             "description": "Equip yourself with essential educational materials that support effective learning. Our products cater to all age groups and subjects, ensuring a rich and immersive learning experience."
@@ -31,6 +33,7 @@
             "backgroundColor": "#79C23F26",
             "title_background_color": " #673AB7",
             "additionalBackgroundColor":"#79C23F33",
+            "thirdBackgroundColor":"#79C23F",
             "color": "#8BC34A",
             "price": 279.99,
             "description": "Stay ahead of the fashion curve with our latest clothing collection. From casual wear to formal attire, we offer stylish options for every occasion, making you stand out in any crowd."
@@ -43,6 +46,7 @@
             "backgroundColor": "#F8714740",
             "title_background_color": "#FFC107",
             "additionalBackgroundColor":"#F8714733",
+            "thirdBackgroundColor":"#F87147",
             "color": "#F87147",
             "price": 269.99,
             "description": "Indulge in a world of culinary delights. From mouthwatering desserts to savory dishes, our food selection promises an unforgettable gastronomic journey that won't break the bank."
@@ -55,6 +59,7 @@
             "backgroundColor": "#F8714740",
             "title_background_color": "#8BC34A",
             "additionalBackgroundColor":"#F8714733",
+            "thirdBackgroundColor":"#F87147",
             "color": "#F87147",
             "price": 259.99,
             "description": "Savor the finest gourmet delicacies at affordable prices. Our delectable offerings are perfect for indulging in culinary delights without emptying your wallet."
@@ -67,6 +72,7 @@
             "backgroundColor": "#FF444927",
             "title_background_color": "#4A90E2",
             "additionalBackgroundColor":"#FF444933",
+            "thirdBackgroundColor":"#FF444A",
             "color": "#FF444A",
             "price": 299.99,
             "description": "Embark on exciting educational journeys that expand your horizons. Our programs cover a wide range of topics, from science to arts, ensuring a rich and immersive learning experience."
@@ -79,6 +85,7 @@
             "backgroundColor": "#79C23F26",
             "title_background_color": "#F44336",
             "additionalBackgroundColor":"#79C23F33",
+            "thirdBackgroundColor":"#79C23F",
             "color": "#8BC34A",
             "price": 269.99,
             "description": "Elevate your style with our collection of casual chic clothing. We offer trendy and comfortable options that are perfect for everyday wear, without breaking the bank."
@@ -91,6 +98,7 @@
             "backgroundColor": "#0052FF26",
             "title_background_color": "#009688",
             "additionalBackgroundColor":"#0052FF33",
+            "thirdBackgroundColor":"#0052FF",
             "color": "#0052FF",
             "price": 279.99,
             "description": "Achieve your fitness goals with our top-quality exercise equipment and nutritional supplements. We're dedicated to helping you maintain a healthy and active lifestyle."
@@ -103,6 +111,7 @@
             "backgroundColor": "#0052FF26",
             "title_background_color": "#F5A623",
             "additionalBackgroundColor":"#0052FF33",
+            "thirdBackgroundColor":"#0052FF",
             "color": "#0052FF",
             "price": 269.99,
             "description": "Unlock the secrets to a balanced and fulfilling life with our wellness guide. It's packed with actionable tips and advice to help you achieve optimal well-being."
@@ -116,6 +125,7 @@
             "backgroundColor": "#79C23F26",
             "title_background_color": "#009688",
             "additionalBackgroundColor":"#79C23F33",
+            "thirdBackgroundColor":"#79C23F",
             "color": "#8BC34A",
             "price": 279.99,
             "description": "Elevate your wardrobe with our sleek and stylish fashion choices. Our clothing line is designed for those who appreciate elegance and sophistication without the hefty price tag."
@@ -128,6 +138,7 @@
             "backgroundColor": "#FF444927",
             "title_background_color": "#FFC107",
             "additionalBackgroundColor":"#FF444933",
+            "thirdBackgroundColor":"#FF444A",
             "color": "#FF444A",
             "price": 269.99,
             "description": "Explore the fascinating world of Science, Technology, Engineering, and Math (STEM) with our comprehensive educational resources. Get ready to ignite your curiosity and learning."
@@ -140,6 +151,7 @@
             "backgroundColor": "#F8714740",
             "title_background_color": "#673AB7",
             "additionalBackgroundColor":"#F8714733",
+            "thirdBackgroundColor":"#F87147",
             "color": "#F87147",
             "price": 259.99,
             "description": "Experience a world of flavor with our tantalizing range of tasty treats. From snacks to gourmet delights, we offer affordable options that satisfy your cravings."
