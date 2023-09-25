@@ -16,7 +16,7 @@ const Statistics = () => {
 
   return (
     <div>
-      <div>
+      <div className='px-5'>
         <ResponsiveContainer width="100%" height={400}>
           <PieChart>
             <Pie
