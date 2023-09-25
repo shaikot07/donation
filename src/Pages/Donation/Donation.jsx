@@ -1,19 +1,22 @@
 import React, { useEffect, useState } from 'react';
 import SuccessDonationCard from './SuccessDonationCard';
+import Statistics from '../Statistics/Statistics';
 
 const Donation = () => {
       const [succesDonation, setSuccesDonation] = useState([]);
       const [notFound, setNotFound] = useState("");
+      
       const [isShow, setIsShow] = useState(false)
       useEffect(() => {
             const donateItems = JSON.parse(localStorage.getItem("donates"));
             if (donateItems) {
                   setSuccesDonation(donateItems)
+                  
             } else {
                   setNotFound("No data Found")
             }
       }, [])
-      console.log(succesDonation);
+      
       return (
             <div className='mb-14'>
 
@@ -21,6 +24,7 @@ const Donation = () => {
                         notFound ? <p className='h-[80vh] flex justify-center items-center text-4xl text-red-600'> {notFound} !!</p> : <div>
 
                               <div className='grid grid-cols-1 md:grid-cols-2 gap-6 mt-5'>
+                                    
                                     {
                                           isShow ? succesDonation.map(data => <SuccessDonationCard key={data.id} data={data} ></SuccessDonationCard>)
                                                 : succesDonation.slice(0, 4).map(data => <SuccessDonationCard key={data.id} data={data} ></SuccessDonationCard>)

@@ -4,9 +4,9 @@ const SuccessDonationCard = ({ data }) => {
       console.log(data);
       const { id, image, title, category, backgroundColor,price, title_background_color, color, additionalBackgroundColor, thirdBackgroundColor } = data || {}
       return (
-            <div>
+            <div className='px-5'>
                   
-                  <div className="relative flex w-[600px] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md ">
+                  <div className="relative flex max-w-[600px] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md ">
                         <div className="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
                               <img
                                     src={image}

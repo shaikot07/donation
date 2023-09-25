@@ -4,6 +4,7 @@ import Home from "../Pages/Home/Home";
 import Donation from "../Pages/Donation/Donation";
 import Statistics from "../Pages/Statistics/Statistics";
 import DonateDitils from "../Component/DonateDitials/DonateDitils";
+import ErrorPage from "../Component/Error/ErrorPage";
 
 
 
@@ -12,6 +13,7 @@ const myCreatedRouter = createBrowserRouter([
       {
             path:'/',
             element:<MainLayout></MainLayout>,
+            errorElement:<ErrorPage></ErrorPage>,
             children:[
                   {
                         path:'/',
@@ -24,7 +26,8 @@ const myCreatedRouter = createBrowserRouter([
                   },
                   {
                         path:'/statistics',
-                        element:<Statistics></Statistics>
+                        element:<Statistics></Statistics>,
+                        loader:()=> fetch('/demo.json')
                   },
                   {
                         path:'/donationDiv/:id',

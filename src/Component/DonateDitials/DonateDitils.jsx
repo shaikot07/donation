@@ -11,8 +11,10 @@ const DonateDitils = () => {
       useEffect(()=>{
             const findData= data.find(((item) => item.id ===  paramsid));
             setDonateDitilas(findData)
+            
       },[ paramsid,data])
-    
+      
+     
       return (
             <div>
                   
